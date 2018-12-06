@@ -1,0 +1,2 @@
+# batch_del_hive_tmp_partitions
+批量删除hive临时分区脚本
